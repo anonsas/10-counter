@@ -10,14 +10,14 @@ _39 group website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://anonsas.github.io/09-color-flipper/
+Site published at: https://anonsas.github.io/10-counter/
 
 ## Project features
 
 - Github pages
 - JavaScript
 - ES6 syntax
-- Conditional Rendering
+- Conditional Statements
 - DOM
 
 ## Authors
